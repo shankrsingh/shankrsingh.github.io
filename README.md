@@ -1,8 +1,5 @@
-# SHANKAR SINGH
-
 An enthusiastic programmer having interest in applying computer science in solving Real World problems using fusion of various fields
 of computer Science.I am also interested in Quantum Mechanics.
-
 
 #### AI and ML Enthusiast
 #### ANDROID DEV.
@@ -11,42 +8,17 @@ of computer Science.I am also interested in Quantum Mechanics.
 #### OPENSOURCE SOFTWARE
 #### NETWORK PENETRATION
 #### LINUX 
-
-
-
-
-
 I Am an avid Learner trying to be **productive**  :worried:
-
 ```
-//core
+//core         //web-dev                     //ML
 
-C
-CPP
-JAVA
-PYTHON♥
-C#
-
-//web-dev
-HTML
-CSS
-JS
-JQUERY
-PHP
-DJANGO
-FLASK
-MYSQL
-MONGO-DB
-
-//ML
-sklearn
-pandas
-numpy
-scipy
-matplotlib
-tensorflow //DEEP-LEARNING♥
-TFlearn
-Keras
-
+C              HTML                           sklearn
+CPP            CSS                            pandas
+JAVA           JS                             numpy
+PYTHON♥        PYTHON-DJANGO                  scipy
+C#             PY-FLASK                       matplotlib
+               PHP                            tensorflow //DEEP-LEARNING♥
+               MYSQL                          TFlearn
+               MONGO-DB                       
 ```
 
