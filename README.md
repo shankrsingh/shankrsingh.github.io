@@ -19,9 +19,33 @@ of computer Science.I am also interested in Quantum Mechanics.
 I Am an avid Learner trying to be productive :)
 
 ```
+//core
 
+C
+CPP
+JAVA
+PYTHON♥
 
-# C
-## CPP
-### JAVA
+//web-dev
+HTML
+CSS
+JS
+JQUERY
+PHP
+DJANGO
+FLASK
+MYSQL
+MONGO-DB
+
+//ML
+sklearn
+pandas
+numpy
+scipy
+matplotlib
+tensorflow //DEEP-LEARNING♥
+TFlearn
+Keras
+
 ```
+
