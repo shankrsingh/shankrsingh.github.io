@@ -4,13 +4,13 @@ An enthusiastic programmer having interest in applying computer science in solvi
 of computer Science.I am also interested in Quantum Mechanics.
 
 
-# AI and ML Enthusiast
-# ANDROID DEV.
-# I AM A FULL STACK DEVELOPER
-# SYSTEMS DEV.
-# OPENSOURCE SOFTWARE
-# NETWORK PENETRATION
-# LINUX 
+### AI and ML Enthusiast
+### ANDROID DEV.
+### I AM A FULL STACK DEVELOPER
+### SYSTEMS DEV.
+### OPENSOURCE SOFTWARE
+### NETWORK PENETRATION
+### LINUX 
 
 
 
@@ -18,9 +18,10 @@ of computer Science.I am also interested in Quantum Mechanics.
 
 I Am an avid Learner trying to be productive :)
 
-```markdown
-Core
+```
+
 
 # C
 ## CPP
 ### JAVA
+```
