@@ -1,7 +1,7 @@
 ---
 ---
 
-@import
+@import  "{{ site.theme }}";
 code {
     color: green;
 }
@@ -10,4 +10,3 @@ code {
 
 
 
- "{{ site.theme }}";
