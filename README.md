@@ -14,9 +14,9 @@ of computer Science.I am also interested in Quantum Mechanics.
 
 
 
-##### My SKILLS
 
-I Am an avid Learner trying to be productive :)
+
+I Am an avid Learner trying to be productive **bold** :smile:
 
 ```
 //core
